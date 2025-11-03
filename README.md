@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
 
-Owen Shi
+Owen Shi, Brandon Chiou
